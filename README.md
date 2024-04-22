@@ -47,4 +47,3 @@ Este proyecto está bajo la Licencia MIT.
 
 ## <span style="color: #00ff7f;">Autor</span>
 - Jimena Rioja
-- Contacto: jimenarioja30@gmail.com
